@@ -1,1 +1,6 @@
-CRMUsers
+<html>
+  <head>
+      <script>location.replace('http://localhost:4001/CRMUsers')</script>
+  </head>
+  <body></body>
+</html>
